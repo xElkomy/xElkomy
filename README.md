@@ -21,3 +21,5 @@ Hi, I'm Khaled Mohamed [xElkomy] , Bug hunter and Penetration tester for more th
 [Twitter](https://twitter.com/0xelkomy) | [Github](https://github.com/xelkomy)
 
 [![xElkomy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xElkomy&show_icons=true&hide_title=true&theme=dark)](https://github.com/xElkomy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xElkomy&layout=compact&theme=dark)](https://github.com/xElkomy/xElkomy)
