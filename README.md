@@ -4,9 +4,9 @@ Hi, I'm Khaled Mohamed [xElkomy] , Bug hunter and Penetration tester for more th
 
 - 🔭 I’m currently working on my project [Workflow-Bug-Bounty](https://github.com/xElkomy/Workflow-Bug-Bounty)
 - 🌱 I’m currently learning GraphQL & javascript & PHP
-- 👯 I’m looking to collaborate on [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)
 - 💬 Ask me about anything [here](https://github.com/xElkomy/xElkomy/issues)
--  My Website [ Here ](https://xelkomy.github.io)
+-  My Blog [ Here ](https://blog.xelkomy.com)
+-  My Website [ Here ](https://www.xelkomy.com)
 
 **Languages and Tools:**  
 
