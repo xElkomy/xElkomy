@@ -7,6 +7,7 @@ Hi, I'm Khaled Mohamed [xElkomy] , Bug hunter and Penetration tester for more th
 - 💬 Ask me about anything [here](https://github.com/xElkomy/xElkomy/issues)
 -  My Blog [ Here ](https://blog.xelkomy.com)
 -  My Website [ Here ](https://www.xelkomy.com)
+-  Arabic Telegram channel about the bug bounty and pentest [ArabPentest](https://t.me/arpentest)
 
 **Languages and Tools:**  
 
