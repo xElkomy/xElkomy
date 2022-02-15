@@ -1,6 +1,7 @@
 ### Hello Everyone 👋
 
 Hi, I'm Khaled Mohamed [xElkomy] , Bug hunter and Penetration tester for more than 3 years.
+[Twitter](https://twitter.com/0xelkomy) | [Github](https://github.com/xelkomy)
 
 - 🔭 I’m currently working on my project [Workflow-Bug-Bounty](https://github.com/xElkomy/Workflow-Bug-Bounty)
 - 🌱 I’m currently learning Golang.
@@ -22,10 +23,6 @@ Hi, I'm Khaled Mohamed [xElkomy] , Bug hunter and Penetration tester for more th
 <p align="center"> 
   Visitor Count<br>
 <img src="https://profile-counter.glitch.me/xElkomy/count.svg" />
-</p>
-
-<p>
-[Twitter](https://twitter.com/0xelkomy) | [Github](https://github.com/xelkomy)
 </p>
 
 <p><a href="https://www.buymeacoffee.com/xelkomy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xelkomy" /></a></p><br><br>
