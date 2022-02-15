@@ -3,7 +3,7 @@
 Hi, I'm Khaled Mohamed [xElkomy] , Bug hunter and Penetration tester for more than 3 years.
 
 - 🔭 I’m currently working on my project [Workflow-Bug-Bounty](https://github.com/xElkomy/Workflow-Bug-Bounty)
-- 🌱 I’m currently learning GraphQL & javascript & PHP
+- 🌱 I’m currently learning Golang.
 - 💬 Ask me about anything [here](https://github.com/xElkomy/xElkomy/issues)
 -  My Blog [ Here ](https://blog.xelkomy.com)
 -  My Website [ Here ](https://www.xelkomy.com)
@@ -24,7 +24,11 @@ Hi, I'm Khaled Mohamed [xElkomy] , Bug hunter and Penetration tester for more th
 <img src="https://profile-counter.glitch.me/xElkomy/count.svg" />
 </p>
 
+<p>
 [Twitter](https://twitter.com/0xelkomy) | [Github](https://github.com/xelkomy)
+</p>
+
+<p><a href="https://www.buymeacoffee.com/xelkomy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xelkomy" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xElkomy&" alt="xElkomy" /></p>
 
