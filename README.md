@@ -33,6 +33,6 @@ Hi, I'm Khaled Mohamed [xElkomy] , Bug hunter and Penetration tester for more th
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xElkomy&" alt="xElkomy" /></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/0xElkomy?color=1DA1F0&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=0xElkomy)
+<a rel="me" href="https://infosec.exchange/@xelkomy">Mastodon</a>
 
 <p><a href="https://www.buymeacoffee.com/xelkomy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xelkomy" /></a></p><br><br>
